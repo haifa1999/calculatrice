@@ -1,3 +1,6 @@
-function fois(tNb,tNa){
-    return tNa.value*tNb.value;
+function carre(tNb,tNa){
+    return tNb.value*tNa.value;
+}
+function sur(tNb,tNa){
+    return tNb.value*tNa.value;
 }
