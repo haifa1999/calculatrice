@@ -1,0 +1,9 @@
+body {border:3px rebeccapurple dotted;}
+body {background-position: center top;}
+body {background-attachment: fixed;}
+.btn{
+    width: 50;
+    height: 50;
+    font-size: 25;
+    margin: 2;
+}
